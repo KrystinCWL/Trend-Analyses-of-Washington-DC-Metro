@@ -9,10 +9,9 @@ Bei-Yu Xing
 
 ## Goal
 <img width="168" height="168" alt="image" src="https://github.com/user-attachments/assets/ddc11ed7-5352-4322-bab0-b4db25d54e39" /> 
-<img width="1601" height="2048" alt="image" src="https://github.com/user-attachments/assets/9999da34-d36d-400b-9c3a-7452232d5d39" />
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/405240d5-553a-4b9c-82c3-01a0cb45ec4c" /> <img width="544" height="92" alt="image" src="https://github.com/user-attachments/assets/31a278d9-8c83-49ff-b057-f6a4ad581825" />
-
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/661b03f1-2ddd-4ac3-a325-43c900e11b49" />
+<img width="168" height="168" alt="image" src="https://github.com/user-attachments/assets/661b03f1-2ddd-4ac3-a325-43c900e11b49" />
+<img width="131" height="168" alt="image" src="https://github.com/user-attachments/assets/9999da34-d36d-400b-9c3a-7452232d5d39" />
+<img width="993" height="92" alt="image" src="https://github.com/user-attachments/assets/31a278d9-8c83-49ff-b057-f6a4ad581825" />
 
 
 This is a data analytics team project we did for the 2025 Info Challenge, a one-week competition aimed to expose students to real-life problems, held by EY and UMD.
