@@ -13,8 +13,8 @@ Bei-Yu Xing
 <img width="400" height="67" alt="image" src="https://github.com/user-attachments/assets/833a2f81-de99-4b6a-9050-dd1abfdca310" />    
 
 ## Goal
-This is a data analytics team project we did for the 2025 Info Challenge, a one-week competition aimed to expose students to real-life problems, held by EY and UMD.   
-The main goal of the project is to analyze the public DC WMATA Metro Average Ridership data and predict future trends, providing useful suggestions for the WMATA operation and revenue.
+- This is a data analytics team project we did for the 2025 Info Challenge, a one-week competition aimed to expose students to real-life problems, held by EY and UMD. 
+- The main goal of the project is to analyze the public DC WMATA Metro Average Ridership data and predict future trends, providing useful suggestions for the WMATA operation and revenue.
 
 ## Tools
 Python Notebook with Pandas, Numpy, Matplotlib
@@ -26,7 +26,7 @@ Python Notebook with Pandas, Numpy, Matplotlib
 | 2     | Prediction         | Predict the future ridership trend using weather data with a linear regression model.   |
 | 3     | Comparison         | Compare the WMATA ridership data with metro systems in other states.                    |
 
-1. Exploratory Data Analysis (EDA): Visualize the data to explore the ridership trend and possible reasons.
+###**1. Exploratory Data Analysis (EDA): Visualize the data to explore the ridership trend and possible reasons.**
 <img width="1186" height="548" alt="image" src="https://github.com/user-attachments/assets/6e87f650-4069-4da7-99b1-f096bee2577a" />
 <img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/f70fc2f1-0f7a-43c0-a703-dda46957af8a" />
 <img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/ff56df6f-652e-4c13-8786-08c23b5b655d" />
