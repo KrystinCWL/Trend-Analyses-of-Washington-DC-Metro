@@ -12,7 +12,7 @@ This is a data analytics team project we did for the 2025 Info Challenge, a one-
 <img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/ddc11ed7-5352-4322-bab0-b4db25d54e39" /> 
 <img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/661b03f1-2ddd-4ac3-a325-43c900e11b49" />
 <img width="71" height="92" alt="image" src="https://github.com/user-attachments/assets/9999da34-d36d-400b-9c3a-7452232d5d39" />
-<img width="400" height="68" alt="image" src="https://github.com/user-attachments/assets/833a2f81-de99-4b6a-9050-dd1abfdca310" />   
+<img width="544" height="92" alt="image" src="https://github.com/user-attachments/assets/833a2f81-de99-4b6a-9050-dd1abfdca310" />   
 The main goal of the project is to analyze the public DC WMATA Metro Average Ridership data and predict future trends, providing useful suggestions for the WMATA operation and revenue.
 
 ## Steps
