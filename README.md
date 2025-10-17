@@ -19,11 +19,11 @@ Bei-Yu Xing
 Python Notebook with Pandas, Numpy, Matplotlib
 
 ## Steps
-| No.   | Step               | Description                                                                             |
-| ----- | ------------------ | --------------------------------------------------------------------------------------- |
-| 1     | Exploratory (EDA)  | Visualize the data to explore the ridership trend and possible reasons.                 |
-| 2     | Prediction         | Predict the future ridership trend using weather data with a linear regression model.   |
-| 3     | Comparison         | Compare the WMATA ridership data with metro systems in other states.                    |
+| No.   | Step          | Description                                                                             |
+| ----- | ------------- | --------------------------------------------------------------------------------------- |
+| 1     | Exploratory   | Visualize the data to explore the ridership trend and possible reasons.                 |
+| 2     | Prediction    | Predict the future ridership trend using weather data with a linear regression model.   |
+| 3     | Comparison    | Compare the WMATA ridership data with metro systems in other states.                    |
 
 ### **1. Exploratory Data Analysis (EDA): Visualize the data to explore the ridership trend and possible reasons.**
 <img width="593" height="274" alt="image" src="https://github.com/user-attachments/assets/6e87f650-4069-4da7-99b1-f096bee2577a" />
